@@ -1,0 +1,9 @@
+Start
+
+Step1:Ask the user to input the radius of the circular path
+
+Step2:Compute the circumference = 2 × 3.1416 × radius
+
+Step3:Display the circumference
+
+End

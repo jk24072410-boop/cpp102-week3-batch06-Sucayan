@@ -1,0 +1,11 @@
+BEGIN 
+   PROMPT "Enter daily rate: " 
+   READ rate 
+ 
+   PROMPT "Enter number of days: " 
+   READ days 
+ 
+   total_cost ← rate * days 
+ 
+   DISPLAY "Total subscription cost: ", total_cost 
+END 

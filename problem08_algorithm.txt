@@ -1,0 +1,9 @@
+Start 
+
+Step1:Ask for the student’s number of violations 
+
+Step2:If violations ≤ 2 → Display “Cleared” 
+
+Step3:Else → Display “Not Cleared” 
+
+End 

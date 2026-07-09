@@ -1,0 +1,14 @@
+BEGIN 
+   PROMPT "Enter midterm exam score: " 
+   READ midterm 
+ 
+   PROMPT "Enter final exam score: " 
+   READ final 
+ 
+   PROMPT "Enter project score: " 
+   READ project 
+ 
+   average ← (midterm + final + project) / 3 
+ 
+   DISPLAY "Final course grade: ", average 
+END 

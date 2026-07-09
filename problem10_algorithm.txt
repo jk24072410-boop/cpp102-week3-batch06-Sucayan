@@ -1,0 +1,9 @@
+Start 
+
+Step1:Ask for the room number 
+
+Step2:If room number % 2 = 0 → Display “Even” 
+
+Step3:Else → Display “Odd” 
+
+End 

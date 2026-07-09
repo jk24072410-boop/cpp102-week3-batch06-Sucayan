@@ -1,0 +1,11 @@
+Start 
+
+Ask for the stock price change 
+
+If change > 0 → Display “Gain” 
+
+If change < 0 → Display “Loss” 
+
+If change = 0 → Display “Unchanged” 
+
+End 

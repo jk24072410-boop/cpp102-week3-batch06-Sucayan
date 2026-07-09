@@ -1,0 +1,9 @@
+Start 
+
+Step1:Ask for 5 game scores 
+
+Step2:Compute average = (score1 + score2 + score3 + score4 + score5) ÷ 5 
+
+Step3:Display average 
+
+End 

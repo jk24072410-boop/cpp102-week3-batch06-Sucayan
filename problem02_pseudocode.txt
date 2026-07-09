@@ -1,0 +1,8 @@
+BEGIN
+    PROMPT "Enter radius of the circular path: "
+    READ radius
+
+    circumference ← 2 * 3.1416 * radius
+
+    DISPLAY "Circumference of the circular path: ", circumference
+END

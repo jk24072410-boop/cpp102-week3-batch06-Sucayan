@@ -1,0 +1,13 @@
+Start 
+
+Step1:Ask for weekly salary 
+
+Step2:Ask for hourly rate 
+
+Step3Ask for hours worked 
+
+Step4:Compute total earnings = weekly salary + (hourly rate × hours worked) 
+
+Step5:Display total earnings 
+
+End 

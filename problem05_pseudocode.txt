@@ -1,0 +1,20 @@
+BEGIN 
+   PROMPT "Enter unit price of item 1: " 
+   READ price1 
+   PROMPT "Enter quantity of item 1: " 
+   READ qty1 
+ 
+   PROMPT "Enter unit price of item 2: " 
+   READ price2 
+   PROMPT "Enter quantity of item 2: " 
+   READ qty2 
+ 
+   PROMPT "Enter unit price of item 3: " 
+   READ price3 
+   PROMPT "Enter quantity of item 3: " 
+   READ qty3 
+ 
+   total ← (price1 * qty1) + (price2 * qty2) + (price3 * qty3) 
+ 
+   DISPLAY "Total purchase: ", total 
+END

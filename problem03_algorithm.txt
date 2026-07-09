@@ -1,0 +1,11 @@
+Start 
+
+Step1:Ask for daily rate 
+
+Step2:Ask for number of days subscribed 
+
+Step3:Compute total cost = daily rate × days 
+
+Step4:Display total cost 
+
+End 

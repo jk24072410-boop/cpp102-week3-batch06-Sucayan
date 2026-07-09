@@ -1,0 +1,16 @@
+BEGIN 
+   PROMPT "Enter score for game 1: " 
+   READ s1 
+   PROMPT "Enter score for game 2: " 
+   READ s2 
+   PROMPT "Enter score for game 3: " 
+   READ s3 
+   PROMPT "Enter score for game 4: " 
+   READ s4 
+   PROMPT "Enter score for game 5: " 
+   READ s5 
+ 
+   average ← (s1 + s2 + s3 + s4 + s5) / 5 
+ 
+   DISPLAY "Average score: ", average 
+END 

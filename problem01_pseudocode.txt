@@ -1,0 +1,11 @@
+BEGIN
+    PROMPT "Enter number of boxes: "
+    READ boxes
+
+    PROMPT "Enter number of items per box: "
+    READ items_per_box
+
+    total_items ← boxes * items_per_box
+
+    DISPLAY "Total number of items: ", total_items
+END

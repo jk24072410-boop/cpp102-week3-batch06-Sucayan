@@ -1,0 +1,11 @@
+Start
+
+Step1:Ask the user to input the number of boxes
+
+Step2:Ask the user to input the number of items per box
+
+Step3:Compute the total number of items = boxes × items per box
+
+Step4:Display the total number of items
+
+End
